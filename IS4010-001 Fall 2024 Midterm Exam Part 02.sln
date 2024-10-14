@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "IS4010-001 Fall 2024 Midterm Exam Part 02", "IS4010-001 Fall 2024 Midterm Exam Part 02\IS4010-001 Fall 2024 Midterm Exam Part 02.pyproj", "{55DFDBB8-C2CB-415B-8E6C-88AF65C787D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55DFDBB8-C2CB-415B-8E6C-88AF65C787D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55DFDBB8-C2CB-415B-8E6C-88AF65C787D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A85EF858-D1D2-46D5-A572-110B2F931A09}
+	EndGlobalSection
+EndGlobal
