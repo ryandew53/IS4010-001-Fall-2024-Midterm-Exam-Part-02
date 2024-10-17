@@ -1,5 +1,3 @@
-
-
 # main.py
 
 from videoGamePackage.videoGame import *
